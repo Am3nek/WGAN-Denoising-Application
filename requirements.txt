@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+numpy
+Pillow
+av
+pytest
+pytest-mock
